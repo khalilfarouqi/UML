@@ -1,4 +1,4 @@
-Doly.ma est siteweb qui permet de faciliter tous l'action entre un client et doctour de pharmasi et respensable de parapharmasi. 
-le site donner l'ocation de demander un services ce dernier peu etre un medicament, controle ou consultatiom, 
-aprer choisir le type de service le docteur il contenu le servic on validation l'operation et reusir la commende si tous les condition sont
+DolyBrief.ma est site web qui permet de faciliter tous l'action entre un client et docteur de pharmacie ou responsable de pharmacie. 
+le site donnait l'occasion de demander un service, ce dernier peut être un medicament, contrôle ou consultation. 
+Le client choisi le type de service et le docteur il continuer le service on validation l'opération et réussir la commende si toutes les conditions sont
 correct.
